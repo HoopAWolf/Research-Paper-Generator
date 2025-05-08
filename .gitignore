@@ -1,0 +1,6 @@
+data/test.txt
+data/tokenized_cache.pkl
+data/train.txt
+data/val.txt
+data/vocab
+/data
